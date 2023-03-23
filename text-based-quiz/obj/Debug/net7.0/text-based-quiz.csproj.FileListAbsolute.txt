@@ -1,0 +1,15 @@
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\bin\Debug\net7.0\text-based-quiz.exe
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\bin\Debug\net7.0\text-based-quiz.deps.json
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\bin\Debug\net7.0\text-based-quiz.runtimeconfig.json
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\bin\Debug\net7.0\text-based-quiz.dll
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\bin\Debug\net7.0\text-based-quiz.pdb
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.csproj.AssemblyReference.cache
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.AssemblyInfoInputs.cache
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.AssemblyInfo.cs
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.csproj.CoreCompileInputs.cache
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.dll
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\refint\text-based-quiz.dll
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.pdb
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\text-based-quiz.genruntimeconfig.cache
+C:\Users\ZACHEE-PC\Desktop\objectivity-training\coding_challenge\text-based-quiz\obj\Debug\net7.0\ref\text-based-quiz.dll
